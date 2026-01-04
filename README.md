@@ -3,6 +3,15 @@
 🎓 **Final Year BCA – Cyber Security**  
 🛡️ Aspiring Security Engineer | Backend & Systems Enthusiast  
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/eswaran-s-064bb9314/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Eswaran%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://tryhackme.com/p/RaymenRex" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-RaymenRex-red?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ## 🧠 About Me
@@ -15,9 +24,31 @@ I enjoy working close to the system level and building **real-world, security-fi
 ## 🛠️ Tech Stack
 
 ### 🔐 Cyber Security
+### 🧠 Cyber Tech Practice
+
 ![OWASP](https://img.shields.io/badge/OWASP-Top%2010-critical?style=for-the-badge&logo=owasp&logoColor=white)
 ![Web Security](https://img.shields.io/badge/Web%20VAPT-Security-blue?style=for-the-badge)
 ![CVE](https://img.shields.io/badge/CVE-Analysis-red?style=for-the-badge)
+
+### 🧠 TryHackMe Achievements
+
+<p align="left">
+  <a href="https://tryhackme.com/p/RaymenRex" target="_blank">
+    <img src="https://tryhackme.com/img/badges/owasp-10.png" width="110" />
+  </a>
+  <a href="https://tryhackme.com/p/RaymenRex" target="_blank">
+    <img src="https://tryhackme.com/img/badges/network-fundamentals.png" width="110" />
+  </a>
+  <a href="https://tryhackme.com/p/RaymenRex" target="_blank">
+    <img src="https://tryhackme.com/img/badges/metasploitable.png" width="110" />
+  </a>
+  <a href="https://tryhackme.com/p/RaymenRex" target="_blank">
+    <img src="https://tryhackme.com/img/badges/burped.png" width="110" />
+  </a>
+  <a href="https://tryhackme.com/p/RaymenRex" target="_blank">
+    <img src="https://tryhackme.com/img/badges/hash-cracker.png" width="110" />
+  </a>
+</p>
 
 ---
 
