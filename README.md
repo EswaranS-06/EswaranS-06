@@ -1,16 +1,8 @@
-# 👋 Hi, I'm Eswaran S
-
+# 👋 Hi, I'm Eswaran S <a href="https://www.linkedin.com/in/eswaran-s-064bb9314/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Eswaran%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 🎓 **Final Year BCA – Cyber Security**  
 🛡️ Aspiring Security Engineer | Backend & Systems Enthusiast  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/eswaran-s-064bb9314/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Eswaran%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://tryhackme.com/p/RaymenRex" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-RaymenRex-red?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-  </a>
-</p>
+[![https://tryhackme-badges.s3.amazonaws.com/RaymenRex.png](https://tryhackme-badges.s3.amazonaws.com/RaymenRex.png)](https://tryhackme-badges.s3.amazonaws.com/RaymenRex.png)
 
 ---
 
@@ -34,19 +26,19 @@ I enjoy working close to the system level and building **real-world, security-fi
 
 <p align="left">
   <a href="https://tryhackme.com/p/RaymenRex" target="_blank">
-    <img src="https://tryhackme.com/img/badges/owasp-10.png" width="110" />
+    <img src="https://tryhackme.com/img/badges/owasptop10.svg" width="110" />
   </a>
   <a href="https://tryhackme.com/p/RaymenRex" target="_blank">
-    <img src="https://tryhackme.com/img/badges/network-fundamentals.png" width="110" />
+    <img src="https://tryhackme.com/img/badges/networkfundamentals.svg" width="110" />
   </a>
   <a href="https://tryhackme.com/p/RaymenRex" target="_blank">
-    <img src="https://tryhackme.com/img/badges/metasploitable.png" width="110" />
+    <img src="https://tryhackme.com/img/badges/metasploit.svg" width="110" />
   </a>
   <a href="https://tryhackme.com/p/RaymenRex" target="_blank">
-    <img src="https://tryhackme.com/img/badges/burped.png" width="110" />
+    <img src="https://tryhackme.com/img/badges/burpsuite.svg" width="110" />
   </a>
   <a href="https://tryhackme.com/p/RaymenRex" target="_blank">
-    <img src="https://tryhackme.com/img/badges/hash-cracker.png" width="110" />
+    <img src="https://tryhackme.com/img/badges/hashcracker.svg" width="110" />
   </a>
 </p>
 
